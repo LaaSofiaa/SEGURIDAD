@@ -1,1 +1,3 @@
-# SEGURIDAD
+# Seguridad y Privacidad de TI
+
+La materia de Seguridad y Privacidad de TI aborda los conceptos, principios y técnicas para proteger sistemas, redes y datos frente a amenazas, garantizando la confidencialidad, integridad y disponibilidad de la información. Se estudian herramientas como firewalls, cifrado, autenticación y detección de intrusos, junto con prácticas para gestionar riesgos, implementar controles de acceso y desarrollar planes de recuperación ante desastres. Además, se profundiza en la privacidad, analizando cómo gestionar adecuadamente la información personal, cumplir normativas, y diseñar sistemas que respeten los derechos de los usuarios, asegurando un manejo ético y seguro de los datos.
